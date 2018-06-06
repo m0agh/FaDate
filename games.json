@@ -1,0 +1,1150 @@
+﻿{
+	"groups": [
+		{
+			"name": "Group A",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 1,
+					"type": "group",
+					"home_team": "Russia",
+					"away_team": "Saudi Arabia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-14T18:00:00+03:00",
+					"stadium": 1,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 2,
+					"type": "group",
+					"home_team": "Egypt",
+					"away_team": "Uruguay",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-15T17:00:00+05:00",
+					"stadium": 12,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 17,
+					"type": "group",
+					"home_team": "Russia",
+					"away_team": "Egypt",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-19T21:00:00+03:00",
+					"stadium": 3,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 18,
+					"type": "group",
+					"home_team": "Uruguay",
+					"away_team": "Saudi Arabia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-20T18:00:00+03:00",
+					"stadium": 10,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 33,
+					"type": "group",
+					"home_team": "Uruguay",
+					"away_team": "Russia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-25T18:00:00+04:00",
+					"stadium": 7,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 34,
+					"type": "group",
+					"home_team": "Saudi Arabia",
+					"away_team": "Egypt",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-25T17:00:00+03:00",
+					"stadium": 8,
+					"channels": [
+						5,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		},
+		{
+			"name": "Group B",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 3,
+					"type": "group",
+					"home_team": "Portugal",
+					"away_team": "Spain",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-15T21:00:00+03:00",
+					"stadium": 11,
+					"channels": [
+						3,
+						7
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 4,
+					"type": "group",
+					"home_team": "Morocco",
+					"away_team": "Iran",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-15T18:00:00+03:00",
+					"stadium": 3,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 19,
+					"type": "group",
+					"home_team": "Portugal",
+					"away_team": "Morocco",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-20T15:00:00+03:00",
+					"stadium": 1,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 20,
+					"type": "group",
+					"home_team": "Iran",
+					"away_team": "Spain",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-20T21:00:00+03:00",
+					"stadium": 5,
+					"channels": [
+						4,
+						7
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 35,
+					"type": "group",
+					"home_team": "Iran",
+					"away_team": "Portugal",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-25T21:00:00+03:00",
+					"stadium": 9,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 36,
+					"type": "group",
+					"home_team": "Spain",
+					"away_team": "Morocco",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-25T20:00:00+02:00",
+					"stadium": 4,
+					"channels": [
+						3,
+						7
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		},
+		{
+			"name": "Group C",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 5,
+					"type": "group",
+					"home_team": "France",
+					"away_team": "Australia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-16T13:00:00+03:00",
+					"stadium": 5,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 6,
+					"type": "group",
+					"home_team": "Peru",
+					"away_team": "Denmark",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-16T19:00:00+03:00",
+					"stadium": 9,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 21,
+					"type": "group",
+					"home_team": "France",
+					"away_team": "Peru",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-21T20:00:00+05:00",
+					"stadium": 12,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 22,
+					"type": "group",
+					"home_team": "Denmark",
+					"away_team": "Australia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-21T16:00:00+04:00",
+					"stadium": 7,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 37,
+					"type": "group",
+					"home_team": "Denmark",
+					"away_team": "France",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-26T17:00:00+03:00",
+					"stadium": 1,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 38,
+					"type": "group",
+					"home_team": "Australia",
+					"away_team": "Peru",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-26T17:00:00+02:00",
+					"stadium": 11,
+					"channels": [
+						5,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		},
+		{
+			"name": "Group D",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 7,
+					"type": "group",
+					"home_team": "Argentina",
+					"away_team": "Iceland",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-16T16:00:00+03:00",
+					"stadium": 2,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 8,
+					"type": "group",
+					"home_team": "Croatia",
+					"away_team": "Nigeria",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-16T21:00:00+02:00",
+					"stadium": 4,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 23,
+					"type": "group",
+					"home_team": "Argentina",
+					"away_team": "Croatia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-21T21:00:00+03:00",
+					"stadium": 6,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 24,
+					"type": "group",
+					"home_team": "Nigeria",
+					"away_team": "Iceland",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-22T18:00:00+03:00",
+					"stadium": 8,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 39,
+					"type": "group",
+					"home_team": "Nigeria",
+					"away_team": "Argentina",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-26T21:00:00+03:00",
+					"stadium": 3,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 40,
+					"type": "group",
+					"home_team": "Iceland",
+					"away_team": "Croatia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-26T21:00:00+03:00",
+					"stadium": 10,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		},
+		{
+			"name": "Group E",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 9,
+					"type": "group",
+					"home_team": "Brazil",
+					"away_team": "Switzerland",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-17T21:00:00+03:00",
+					"stadium": 10,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 10,
+					"type": "group",
+					"home_team": "Costa Rica",
+					"away_team": "Serbia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-17T16:00:00+04:00",
+					"stadium": 7,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 25,
+					"type": "group",
+					"home_team": "Brazil",
+					"away_team": "Costa Rica",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-22T15:00:00+03:00",
+					"stadium": 3,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 26,
+					"type": "group",
+					"home_team": "Serbia",
+					"away_team": "Switzerland",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-22T20:00:00+02:00",
+					"stadium": 4,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 41,
+					"type": "group",
+					"home_team": "Serbia",
+					"away_team": "Brazil",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-27T21:00:00+03:00",
+					"stadium": 2,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 42,
+					"type": "group",
+					"home_team": "Switzerland",
+					"away_team": "Costa Rica",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-27T21:00:00+03:00",
+					"stadium": 6,
+					"channels": [
+						5,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		},
+		{
+			"name": "Group F",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 11,
+					"type": "group",
+					"home_team": "Germany",
+					"away_team": "Mexico",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-17T18:00:00+03:00",
+					"stadium": 1,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 12,
+					"type": "group",
+					"home_team": "Sweden",
+					"away_team": "South Korea",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-18T15:00:00+03:00",
+					"stadium": 6,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 27,
+					"type": "group",
+					"home_team": "Germany",
+					"away_team": "Sweden",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-23T21:00:00+03:00",
+					"stadium": 11,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 28,
+					"type": "group",
+					"home_team": "South Korea",
+					"away_team": "Mexico",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-23T18:00:00+03:00",
+					"stadium": 10,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 43,
+					"type": "group",
+					"home_team": "South Korea",
+					"away_team": "Germany",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-27T17:00:00+03:00",
+					"stadium": 5,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 44,
+					"type": "group",
+					"home_team": "Mexico",
+					"away_team": "Sweden",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-27T19:00:00+05:00",
+					"stadium": 12,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		},
+		{
+			"name": "Group G",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 13,
+					"type": "group",
+					"home_team": "Belgium",
+					"away_team": "Panama",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-18T18:00:00+03:00",
+					"stadium": 11,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 14,
+					"type": "group",
+					"home_team": "Tunisia",
+					"away_team": "England",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-18T21:00:00+03:00",
+					"stadium": 8,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 29,
+					"type": "group",
+					"home_team": "Belgium",
+					"away_team": "Tunisia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-23T15:00:00+03:00",
+					"stadium": 2,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 30,
+					"type": "group",
+					"home_team": "England",
+					"away_team": "Panama",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-24T15:00:00+03:00",
+					"stadium": 6,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 45,
+					"type": "group",
+					"home_team": "England",
+					"away_team": "Belgium",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-28T20:00:00+02:00",
+					"stadium": 4,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 46,
+					"type": "group",
+					"home_team": "Panama",
+					"away_team": "Tunisia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-28T21:00:00+03:00",
+					"stadium": 9,
+					"channels": [
+						5,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		},
+		{
+			"name": "Group H",
+			"winner": null,
+			"runnerup": null,
+			"matches": [
+				{
+					"name": 15,
+					"type": "group",
+					"home_team": "Poland",
+					"away_team": "Senegal",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-19T18:00:00+03:00",
+					"stadium": 2,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 16,
+					"type": "group",
+					"home_team": "Colombia",
+					"away_team": "Japan",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-19T15:00:00+03:00",
+					"stadium": 9,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 1
+				},
+				{
+					"name": 31,
+					"type": "group",
+					"home_team": "Poland",
+					"away_team": "Colombia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-24T20:00:00+05:00",
+					"stadium": 5,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 32,
+					"type": "group",
+					"home_team": "Japan",
+					"away_team": "Senegal",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-24T21:00:00+03:00",
+					"stadium": 12,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 2
+				},
+				{
+					"name": 47,
+					"type": "group",
+					"home_team": "Japan",
+					"away_team": "Poland",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-28T17:00:00+03:00",
+					"stadium": 8,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				},
+				{
+					"name": 48,
+					"type": "group",
+					"home_team": "Senegal",
+					"away_team": "Colombia",
+					"home_result": null,
+					"away_result": null,
+					"date": "2018-06-28T18:00:00+04:00",
+					"stadium": 7,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 3
+				}
+			]
+		}
+	],
+	"knockout": [
+		{
+			"name": "Round of 16",
+			"matches": [
+				{
+					"name": 49,
+					"type": "qualified",
+					"home_team": "winner_a",
+					"away_team": "runner_b",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-06-30T17:00:00+03:00",
+					"stadium": 11,
+					"channels": [
+						4
+					],
+					"finished": false,
+					"matchday": 4
+				},
+				{
+					"name": 50,
+					"type": "qualified",
+					"home_team": "winner_c",
+					"away_team": "runner_d",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-06-30T21:00:00+03:00",
+					"stadium": 5,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 4
+				},
+				{
+					"name": 51,
+					"type": "qualified",
+					"home_team": "winner_b",
+					"away_team": "runner_a",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-01T17:00:00+03:00",
+					"stadium": 1,
+					"channels": [
+						3
+					],
+					"finished": false,
+					"matchday": 4
+				},
+				{
+					"name": 52,
+					"type": "qualified",
+					"home_team": "winner_d",
+					"away_team": "runner_c",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-01T21:00:00+03:00",
+					"stadium": 6,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 4
+				},
+				{
+					"name": 53,
+					"type": "qualified",
+					"home_team": "winner_e",
+					"away_team": "runner_f",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-02T18:00:00+04:00",
+					"stadium": 7,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 4
+				},
+				{
+					"name": 54,
+					"type": "qualified",
+					"home_team": "winner_g",
+					"away_team": "runner_h",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-02T21:00:00+03:00",
+					"stadium": 10,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 4
+				},
+				{
+					"name": 55,
+					"type": "qualified",
+					"home_team": "winner_f",
+					"away_team": "runner_e",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-03T17:00:00+03:00",
+					"stadium": 3,
+					"channels": [
+						4,
+						6
+					],
+					"finished": false,
+					"matchday": 4
+				},
+				{
+					"name": 56,
+					"type": "qualified",
+					"home_team": "winner_h",
+					"away_team": "runner_g",
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-03T21:00:00+03:00",
+					"stadium": 2,
+					"channels": [
+						3,
+						6
+					],
+					"finished": false,
+					"matchday": 4
+				}
+			]
+		},
+		{
+			"name": "Quarter-finals",
+			"matches": [
+				{
+					"name": 57,
+					"type": "winner",
+					"home_team": 49,
+					"away_team": 50,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-06T17:00:00+03:00",
+					"stadium": 6,
+					"channels": [
+						3
+					],
+					"finished": false,
+					"matchday": 5
+				},
+				{
+					"name": 58,
+					"type": "winner",
+					"home_team": 53,
+					"away_team": 54,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-06T21:00:00+03:00",
+					"stadium": 5,
+					"channels": [
+						3
+					],
+					"finished": false,
+					"matchday": 5
+				},
+				{
+					"name": 59,
+					"type": "winner",
+					"home_team": 51,
+					"away_team": 52,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-07T21:00:00+03:00",
+					"stadium": 11,
+					"channels": [
+						4
+					],
+					"finished": false,
+					"matchday": 5
+				},
+				{
+					"name": 60,
+					"type": "winner",
+					"home_team": 55,
+					"away_team": 56,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-07T18:00:00+04:00",
+					"stadium": 7,
+					"channels": [
+						4
+					],
+					"finished": false,
+					"matchday": 5
+				}
+			]
+		},
+		{
+			"name": "Semi-finals",
+			"matches": [
+				{
+					"name": 61,
+					"type": "winner",
+					"home_team": 57,
+					"away_team": 58,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-10T21:00:00+03:00",
+					"stadium": 3,
+					"channels": [
+						4
+					],
+					"finished": false,
+					"matchday": 6
+				},
+				{
+					"name": 62,
+					"type": "winner",
+					"home_team": 59,
+					"away_team": 60,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-11T21:00:00+03:00",
+					"stadium": 1,
+					"channels": [
+						3
+					],
+					"finished": false,
+					"matchday": 6
+				}
+			]
+		},
+		{
+			"name": "Third place play-off",
+			"matches": [
+				{
+					"name": 63,
+					"type": "loser",
+					"home_team": 61,
+					"away_team": 62,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-14T17:00:00+03:00",
+					"stadium": 3,
+					"channels": [
+						4
+					],
+					"finished": false,
+					"matchday": 7
+				}
+			]
+		},
+		{
+			"name": "Final",
+			"matches": [
+				{
+					"name": 64,
+					"type": "winner",
+					"home_team": 61,
+					"away_team": 62,
+					"home_result": null,
+					"away_result": null,
+					"home_penalty": null,
+					"away_penalty": null,
+					"winner": null,
+					"date": "2018-07-15T18:00:00+03:00",
+					"stadium": 1,
+					"channels": [
+						3,
+						4
+					],
+					"finished": false,
+					"matchday": 7
+				}
+			]
+		}
+	]
+}
